@@ -19,3 +19,9 @@
 [submodule "tools/EspArduinoExceptionDecoder"]
 	path = tools/EspArduinoExceptionDecoder
 	url = https://github.com/me21/EspArduinoExceptionDecoder.git
+[submodule "lib/MahonyAHRS"]
+	path = lib/MahonyAHRS
+        url = https://github.com/PaulStoffregen/MahonyAHRS.git
+[submodule "lib/MadgwickAHRS"]
+	path = lib/MadgwickAHRS
+	url = https://github.com/geduino-foundation/MadgwickAHRS.git
