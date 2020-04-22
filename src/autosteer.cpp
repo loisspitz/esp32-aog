@@ -31,6 +31,8 @@
 #include <string>       // std::string
 #include <sstream>      // std::stringstream
 
+#include <ESPUI.h>
+
 SteerSettings steerSettings;
 SteerSetpoints steerSetpoints;
 SteerMachineControl steerMachineControl;

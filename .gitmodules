@@ -10,12 +10,33 @@
 [submodule "lib/AutoPID"]
 	path = lib/AutoPID
 	url = https://github.com/eringerli/AutoPID.git
-[submodule "lib/ESPUI"]
-	path = lib/ESPUI
-	url = https://github.com/eringerli/ESPUI.git
+#[submodule "lib/ESPUI"]
+#	path = lib/ESPUI
+#	url = https://github.com/eringerli/ESPUI.git
 [submodule "lib/MicroNMEA"]
 	path = lib/MicroNMEA
 	url = https://github.com/eringerli/MicroNMEA.git
 [submodule "tools/EspArduinoExceptionDecoder"]
 	path = tools/EspArduinoExceptionDecoder
 	url = https://github.com/me21/EspArduinoExceptionDecoder.git
+[submodule "lib/MahonyAHRS"]
+	path = lib/MahonyAHRS
+    url = https://github.com/PaulStoffregen/MahonyAHRS.git
+[submodule "lib/MadgwickAHRS"]
+	path = lib/MadgwickAHRS
+	url = https://github.com/geduino-foundation/MadgwickAHRS.git
+[submodule "lib xtensa-esp32-elf"]
+  path = lib/xtensa-esp32-elf
+	url = https://github.com/gschorcht/xtensa-esp32-elf.git
+[submodule "SPIMemory"]
+	path = lib/SPIMemory
+	url = https://github.com/Marzogh/SPIMemory.git
+[submodule "lib/ESPUI"]
+	path = lib/ESPUI
+	url = https://github.com/s00500/ESPUI.git
+[submodule "lib/eeprom32_rotate"]
+	path = lib/eeprom32_rotate
+	url = https://github.com/eringerli/eeprom32_rotate.git
+[submodule "lib/espsoftwareserial"]
+	path = lib/espsoftwareserial
+	url = https://github.com/jdollar/espsoftwareserial.git

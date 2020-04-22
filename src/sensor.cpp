@@ -35,8 +35,8 @@
 #include <Adafruit_FXAS21002C.h>
 #include <Adafruit_FXOS8700.h>
 
-#include <Mahony.h>
-#include <Madgwick.h>
+#include <MahonyAHRS.h>
+#include <MadgwickAHRS.h>
 
 #include <Adafruit_ADS1015.h>
 
@@ -713,5 +713,3 @@ void initSensors() {
 
   xTaskCreate( sensorWorker100HzPoller, "sensorWorker100HzPoller", 4096, NULL, 6, NULL );
 }
-
-
