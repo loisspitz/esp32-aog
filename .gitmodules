@@ -33,7 +33,7 @@
 	url = https://github.com/Marzogh/SPIMemory.git
 [submodule "lib/ESPUI"]
 	path = lib/ESPUI
-	url = https://github.com/s00500/ESPUI.git
+	url = https://github.com/loisspitz/ESPUI.git
 [submodule "lib/eeprom32_rotate"]
 	path = lib/eeprom32_rotate
 	url = https://github.com/eringerli/eeprom32_rotate.git
